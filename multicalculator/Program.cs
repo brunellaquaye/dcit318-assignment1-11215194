@@ -15,7 +15,7 @@ class Program
 
             Console.WriteLine("D. End");
 
-            Console.Write("\nChoose by typing A,B orC\n");
+            Console.Write("\nChoose by typing A,B orC or D\n");
 
             string decision = Console.ReadLine();
 
@@ -24,21 +24,21 @@ class Program
                 case "A":
                     GradeCalculator();
                     break;
-                // case "B":
-                //     TicketPriceCalculator();
-                //     break;
+                case "B":
+                    TicketPriceCalculator();
+                         break;
                 // case "C":
                 //     TriangleTypeIdentifier();
-                //     break;
-                // case "D":
-                    Console.WriteLine("Current Program is ");
-                    return;
+                //         break;
+                case "D":
+                    Console.WriteLine("Exiting.... ");
+                        return;
                 // default:
-                //     Console.WriteLine("Invalid decision. Have a go at it again!");
+                //         Console.WriteLine("Invalid decision. Have a go at it again!");
 
             }
 
-            void GradeCalculator()
+            static void GradeCalculator()
             {
                 Console.Write("\nWhat are your grades? (0-100)\n");
                 if (int.TryParse(Console.ReadLine(), out int grade))
@@ -66,6 +66,29 @@ class Program
                     Console.WriteLine("Invalid input. Please enter a grade in the range");
                 }
             }
+
+            static void TicketPriceCalculator()
+            {
+                Console.Write("How old are you? \n");
+                if (int.TryParse(Console.ReadLine(), out int age))
+                {
+                    if (age <= 12 || age >= 65)
+                    {
+                        Console.WriteLine("Price of ticket : GHC&7\n");
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Price Of Ticket: GHC 10\n");
+
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Your input is invalid. Please enter a number");
+                }
+            }
+
 
         }
     }

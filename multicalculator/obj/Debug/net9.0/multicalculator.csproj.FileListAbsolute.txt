@@ -12,3 +12,4 @@
 /Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.pdb
 /Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.genruntimeconfig.cache
 /Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/ref/multicalculator.dll
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.sourcelink.json
