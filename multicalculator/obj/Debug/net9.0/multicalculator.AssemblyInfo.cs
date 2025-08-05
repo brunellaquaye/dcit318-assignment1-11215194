@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multicalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b6aaaff82b183e3d880e7bb911ae1492b7335e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21c04793a064079ec099e63da56103fddce08364")]
 [assembly: System.Reflection.AssemblyProductAttribute("multicalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multicalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
