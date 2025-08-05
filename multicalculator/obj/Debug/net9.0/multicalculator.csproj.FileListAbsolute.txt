@@ -1,0 +1,14 @@
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.AssemblyInfoInputs.cache
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.AssemblyInfo.cs
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.csproj.CoreCompileInputs.cache
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/bin/Debug/net9.0/multicalculator
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/bin/Debug/net9.0/multicalculator.deps.json
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/bin/Debug/net9.0/multicalculator.runtimeconfig.json
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/bin/Debug/net9.0/multicalculator.dll
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/bin/Debug/net9.0/multicalculator.pdb
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.dll
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/refint/multicalculator.dll
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.pdb
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/multicalculator.genruntimeconfig.cache
+/Users/brunellaquaye/Documents/dcit318-assignment1-11215194/multicalculator/obj/Debug/net9.0/ref/multicalculator.dll
